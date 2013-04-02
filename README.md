@@ -1,7 +1,7 @@
 unix-commands-quiz
 ==================
 
-Source of [the unix commands quiz][http://web.cecs.pdx.edu/~nibz/unix_quiz]
+Source of [the unix commands quiz](http://web.cecs.pdx.edu/~nibz/unix_quiz)
 
 Copyright 2013 Spencer Krum
 
